@@ -38,6 +38,15 @@ body{
     }
 }
 
+#explore-main-section{
+    .fa{
+        padding: 4px;
+        font-size: $icon-font-size;
+        color: #fff;
+        background: #000;
+        border-radius: 5px;
+    }
+}
 
 
 @media (max-width: 768px){
