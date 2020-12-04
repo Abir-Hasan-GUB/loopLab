@@ -48,6 +48,15 @@ body{
     }
 }
 
+#create-head-main{
+    .fa{
+        padding: 4px;
+        font-size: $icon-font-size;
+        color: $primary-color;
+        background: $font-color;
+        border-radius: 5px;
+    }
+}
 
 @media (max-width: 768px){
     #home-section h1{
